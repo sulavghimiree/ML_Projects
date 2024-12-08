@@ -20,5 +20,6 @@ Goals
 
 Explore and implement machine learning algorithms.  
 Showcase end-to-end ML workflows.  
-Share insights, techniques, and models with the community.  
+Share insights, techniques, and models with the community.
+
 Feel free to explore, fork, and contribute to these projects! Your feedback and suggestions are always welcome. 😊
